@@ -17,6 +17,6 @@
 			<p><a href="CheckReg.jsp">CheckRegistration</a></p>
             <br>
         <h4>If you add any new scripts to wiicore.js, please link a button here for easy testing.</h4>
-        <p><button onclick="window.history.back()">bring me back home daddy</button></p>
+        <p><button onclick="window.history.back()">Go back..</button></p>
     </body>
 </html>
